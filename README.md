@@ -10,9 +10,6 @@ This repository contains an implementation of the Caesar cipher algorithm in Rus
 
 - [Caesar Cipher Algorithm](#caesar-cipher-algorithm)
 - [Code Explanation](#code-explanation)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
 
 ## Caesar Cipher Algorithm
 
